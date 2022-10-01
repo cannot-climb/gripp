@@ -1,0 +1,12 @@
+[submodule "ios"]
+	path = ios
+	url = https://github.com/cannot-climb/gripp-ios.git
+	branch = master
+[submodule "backend"]
+	path = backend
+	url = https://github.com/cannot-climb/gripp-backend.git
+	branch = master
+[submodule "deep"]
+	path = deep
+	url = https://github.com/cannot-climb/gripp-deep.git
+	branch = master
