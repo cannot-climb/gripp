@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="250" src="docs/gripp-icon.png" alt="Logo">
+<img height="200" src="gripp-icon.png" alt="Logo">
 
 </div>
 
