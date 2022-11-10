@@ -1,0 +1,4 @@
+[submodule "ios"]
+	path = ios
+	url = https://github.com/cannot-climb/gripp-ios.git
+	branch = master
